@@ -1,2 +1,2 @@
 # BoutiqueDatabase
-Here we can find the database and queries from MIST 2090.
+Here we can find the database and queries from MIST 4610.
